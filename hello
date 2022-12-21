@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>rich knowledge of king</title>
+    <link href="show1.css" rel="stylesheet">
+
+<script src="show.js"></script>
+</head>
+
+<body>
+  <a href="https://www.youtube.com/watch?v=yK9nqKY-8o4&list=PLvwmO12a3QmlPywyTe9AHOhJ4zqIg9KBo" target="_blank"><input class="video" type="button" value="介紹影片" ></a> 
+  <input id="start" class="start" type="button" value="開始遊戲" ></input>
+  <audio id="sounds" loop>
+      <source src="yt1s.com - 可愛 Cute  Bensound 免費音樂庫 No Copyright Music.mp3" >
+  </audio>
+        </div><!-- signup end-->
+      </div><!-- container2 end-->
+    </div><!-- signup_page end--> 
+    <div id="help card">
+        <img src="求救卡.png" class="helpcard">
+        <img src="消去卡.png" class="dismisscard">
+        <span class="text">消去卡</span>
+        <span class="text1">求救卡</span>
+    </div>
+   
+  </body>
+</html>
