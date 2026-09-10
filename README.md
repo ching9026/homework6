@@ -4,6 +4,7 @@
 
 本作業主要練習基本網頁排版、CSS 樣式設計、圖片與超連結整合，以及 YouTube 影片嵌入等前端基礎功能。
 
+並使用github.io: https://ching9026.github.io/homework6/01057151-Exercise6-2.html
 ---
 
 ## 專案內容
@@ -108,7 +109,6 @@ python -m http.server 8000
 ```text
 http://localhost:8000/01057151-Exercise6-2.html
 ```
-
 ---
 
 ## 學習重點
